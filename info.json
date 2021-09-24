@@ -1,0 +1,21 @@
+{
+    "name": "Brandon Doris",
+    "website": "https://github.com/NotBrandX",
+    "linkedin": "https://www.linkedin.com/in/brandondoris/",
+    "github": "NotBrandX",
+    "email": "brandonmdoris@yahoo.com",
+    "resume": "Email me for my resume",
+    "proficientTechnologies": [
+        "HTML",
+        "Javascript",
+        "CSS",
+        "React",
+        "Bootstrap",
+        "Node"
+    ],
+    "otherSkills": [
+        "Super Smash Bros",
+        "Card throwing",
+        "Quoting movies"
+    ]
+}
